@@ -2,13 +2,13 @@
 
 Welcome to the official GitHub organization for Savoye North America.
 
-## About Savoye
+## About Savoye NA
 
-Savoye is a leading provider of automated logistics solutions, specializing in warehouse automation, material handling systems, and supply chain optimization technologies. Our North American division focuses on delivering innovative solutions tailored to the unique needs of the North American market.
+Savoye NA is a leading provider of automated logistics solutions, specializing in warehouse automation, material handling systems, and supply chain optimization technologies. Our North American division focuses on delivering innovative solutions tailored to the unique needs of the North American market.
 
 ## Our Solutions
 
-- **Warehouse Management Systems (WMS)** - Advanced software solutions for inventory and warehouse operations
+- **Warehouse Execution Systems (WES)** - Advanced software solutions for inventory and warehouse operations
 - **Automated Storage & Retrieval Systems** - High-density storage solutions with automated picking and placement
 - **Conveyor Systems** - Material handling and sortation systems
 - **Robotics & Automation** - Cutting-edge robotic solutions for warehouse operations
@@ -36,12 +36,12 @@ We leverage modern technologies to deliver robust, scalable automation solutions
 For more information about Savoye North America and our solutions:
 
 - **Website**: [savoye-na.com](https://savoye-na.com)
-- **Email**: Contact your local Savoye representative
+- **Email**: Contact your local Savoye NA representative
 - **LinkedIn**: Follow us for updates on warehouse automation trends
 
 ## Contributing
 
-These repositories contain proprietary control system software. Access is restricted to authorized Savoye personnel and partners.
+These repositories contain proprietary control system software. Access is restricted to authorized Savoye NA personnel and partners.
 
 ---
 
