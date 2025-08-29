@@ -29,8 +29,6 @@ We leverage modern technologies to deliver robust, scalable automation solutions
 For more information about Savoye North America and our solutions:
 
 - **Website**: [savoye-na.com](https://savoye-na.com)
-- **Email**: Contact your local Savoye NA representative
-- **LinkedIn**: Follow us for updates on warehouse automation trends
 
 ## Contributing
 
