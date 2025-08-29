@@ -14,13 +14,6 @@ Savoye NA is a leading provider of automated logistics solutions, specializing i
 - **Robotics & Automation** - Cutting-edge robotic solutions for warehouse operations
 - **Control Systems** - Sophisticated control software for integrated automation solutions
 
-## Repositories
-
-Our repositories contain various control systems and automation solutions:
-
-- **lift-controller** - Control systems for automated lift and vertical transport solutions
-- **gtp-controller** - Ground transport and picking controller systems
-- **shuttle-controller** - Control systems for automated shuttle and horizontal transport solutions
 
 ## Technology Stack
 
